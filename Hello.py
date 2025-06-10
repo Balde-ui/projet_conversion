@@ -1,3 +1,5 @@
+"""Travail pratique pour le cours de Python
+Travail git"""
 print("Convertisseur de température")
 print("1. Convertir de Celsius vers Fahrenheit")
 print("2. Convertir de Fahrenheit vers Celsius")
@@ -14,4 +16,5 @@ elif choix == '2':
     print(f"{fahrenheit}°F = {celsius}°C")
 else:
     print("Option invalide . veuillez choisir entre 1 et 2")
+
 
